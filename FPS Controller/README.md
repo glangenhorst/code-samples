@@ -1,6 +1,3 @@
-Methodology for the project is laid out in the Topic Paper.
-Created for Prof. Rank's AI class, I worked with two other students.
-A large part of the Perlin landmass is from Sebastian Lague's Landmass Generation series.
-Everything else is completely original to me.
-Models were created by Devin Doane
-Concepting by Jackson Rygel
+This script comes from my having watched a lot of different FPS scripts.
+I always manage to lose my FPSController script, and end up rewriting it.
+I could rewrite this entire thing without looking up anything on the API documentation.
