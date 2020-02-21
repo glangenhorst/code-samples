@@ -1,6 +1,4 @@
-Methodology for the project is laid out in the Topic Paper.
-Created for Prof. Rank's AI class, I worked with two other students.
-A large part of the Perlin landmass is from Sebastian Lague's Landmass Generation series.
-Everything else is completely original to me.
-Models were created by Devin Doane
-Concepting by Jackson Rygel
+Very basic waterfall shader and script.
+The script interacts with Colliders to change the height of the shader's alpha cutoff and the particle effect on the object.
+The effect is that the waterfall is hitting the object underneath.
+This script is remarkably simple, and requires a rectangular object to work correctly.
